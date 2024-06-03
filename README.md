@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Atiqur.;A+Coding+Maestro+%26+Die-Hard+Swiftie)](https://git.io/typing-svg)
 
 🎓 B.Tech in Computer Science and Engineering (Class of 2025)
+
 📍 [Aarupadai Veedu Institute of Technology]
 
 Hello there! I'm an aspiring Data Scientist passionate about AI/ML and a fervent advocate for open source. 🚀
@@ -33,6 +34,7 @@ Hello there! I'm an aspiring Data Scientist passionate about AI/ML and a fervent
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="26px" height="26px"/>
 <br />
 <br />
+
 
 <!-- Experience -->
 ### 👩🏻‍💻 Experience
