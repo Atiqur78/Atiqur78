@@ -75,7 +75,7 @@ I am pursing my Btech in Computer Science and Engineering  👩‍💻  (expecte
 </table>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Atiqur78&label=Profile%20views&color=0e75b6&style=flat" alt="Atiqur78" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Atiqur78&base=1000&label=Profile%20views&color=0e75b6&style=flat" alt="Atiqur78" /> </p>
 <p>
 <!-- <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
