@@ -43,7 +43,6 @@ Hello there! I'm an aspiring Data Scientist passionate about AI/ML and a fervent
 
 <!--  Projects -->
 ### 🚀 My projects
-(includes freelance work too)
 - [Face Recognition System](https://github.com/Atiqur78/Face-Recognition-System)
 - [Agriculture Help Chatbot](https://github.com/Atiqur78/Agri_help_bot)
 - [Virtual Keyborad](https://github.com/Atiqur78/Virtual-Keyboard)
