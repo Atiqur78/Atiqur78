@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Atiqur.;A+Coding Maestro+%26+and+Die-Hard+swiftie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Atiqur.;A+Coding+Maestro+%26+Die-Hard+Swiftie)](https://git.io/typing-svg)
 
 🎓 B.Tech in Computer Science and Engineering (Class of 2025)
 📍 [Aarupadai Veedu Institute of Technology]
