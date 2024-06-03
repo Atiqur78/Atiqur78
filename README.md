@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Atiqur.;A+developer+%26+a+veteran+swiftie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Atiqur.;A+Coding Maestro+%26+and+Die-Hard+swiftie)](https://git.io/typing-svg)
 
-I am pursing my Btech in Computer Science and Engineering  👩‍💻  (expected to graduate in 2025) from [Aarupadai Veedu Institute of Technology]. I am a Aspiring Data Scientist & open source advocate who's enthusiastic in AI/ML and learning new technologies.
+🎓 B.Tech in Computer Science and Engineering (Class of 2025)
+📍 [Aarupadai Veedu Institute of Technology]
+
+Hello there! I'm an aspiring Data Scientist passionate about AI/ML and a fervent advocate for open source. 🚀
 
 ### Contact me:
 
@@ -14,7 +17,7 @@ I am pursing my Btech in Computer Science and Engineering  👩‍💻  (expecte
 ### Languages and Tools:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26px" height="26px"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="26px" height="26px"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="26px" height="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="26px" height="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="26px" height="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="26px" height="26px"/>
